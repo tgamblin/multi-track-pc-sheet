@@ -23,3 +23,5 @@ query(indirect("CHAIR!$A$21:$M"), "select A,B,C,D,E,F,G,H,I,J,K,L,M,'CHAIR' labe
 ```
 
 Copy the query and paste it into the AllMembers sheet, here:
+
+![Image of spreadsheet](https://raw.githubusercontent.com/tgamblin/multi-track-pc-sheet/main/paste-instructions.png)
